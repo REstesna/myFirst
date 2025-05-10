@@ -4,12 +4,12 @@ let $ = document;
 //////////////////////////////////////////////////////////////////////
 
 const products = [
-  { id: 1, Title: "Album1", price: 12.0, src: "Images/Album 1.png", count: 1 },
-  { id: 2, Title: "Album2", price: 10.0, src: "Images/Album 2.png", count: 1 },
-  { id: 3, Title: "Album3", price: 15.0, src: "Images/Album 3.png", count: 1 },
-  { id: 4, Title: "Album4", price: 20.0, src: "Images/Album 4.png", count: 1 },
-  { id: 5, Title: "Cofee", price: 11.0, src: "Images/Cofee.png", count: 1 },
-  { id: 6, Title: "T-Shirt", price: 19.0, src: "Images/shirt.png", count: 1 },
+  { id: 1, Title: "Album1", price: 12.0, src: "Album 1.png", count: 1 },
+  { id: 2, Title: "Album2", price: 10.0, src: "Album 2.png", count: 1 },
+  { id: 3, Title: "Album3", price: 15.0, src: "Album 3.png", count: 1 },
+  { id: 4, Title: "Album4", price: 20.0, src: "Album 4.png", count: 1 },
+  { id: 5, Title: "Cofee", price: 11.0, src: "Cofee.png", count: 1 },
+  { id: 6, Title: "T-Shirt", price: 19.0, src: "shirt.png", count: 1 },
 ];
 
 let userBasket = [];
